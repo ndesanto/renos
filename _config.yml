@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Plan your renovations
-email: nick@desanto.ca
+title: Planet Renovations Inc.
+email: Peter@planetrenovations.ca
 description: >- # this means to ignore newlines until "baseurl:"
- Renovate your home
+Your vision. Our Expertise
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "renos.desanto.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "planetrenovations.ca" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima

@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.85)), url('../img/header.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.85)), url('../img/header2.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -169,6 +169,7 @@ header {
                 text-transform: uppercase;
                 margin-top: 0;
                 margin-bottom: 0;
+                font-family: 'Young Serif', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
             }
             hr {
                 margin: 30px auto;
@@ -349,3 +350,20 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+
+.text-emphasis {
+    color: #29d282;
+}
+.logo-png {
+    background-image: url('../img/v4-globe-logo-boxed1.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-right: 1.5rem;
+    padding: 2rem;
+    display: inline-block;
+}
+
+.large-font-size {
+    font-size: large;
+}
