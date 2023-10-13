@@ -19,9 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Planet Renovations Inc.
-email: Peter@planetrenovations.ca
+email: peter@planetrenovations.ca
+phone: 7058767526
+phonetext: (705) 876-PLAN
 description: >- # this means to ignore newlines until "baseurl:"
-  Your vision. Our Expertise
+  Planet Renovations inc. Your vision. Our Expertise
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "planetrenovations.ca" # the base hostname & protocol for your site, e.g. http://example.com
 
