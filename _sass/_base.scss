@@ -8,6 +8,9 @@ body {
     @include serif-font;
 }
 
+.underline {
+    text-decoration: underline;
+}
 hr {
     border-color: $theme-primary;
     border-width: 3px;
