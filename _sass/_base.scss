@@ -562,3 +562,9 @@ footer {
         right: 1rem;
     }
 }
+
+.home-depot-img img{
+    position: inherit;
+    z-index: 50;
+    max-width: 32rem;
+}

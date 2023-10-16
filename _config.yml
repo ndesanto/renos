@@ -25,7 +25,7 @@ phonetext: (705) 876-PLAN
 description: >- # this means to ignore newlines until "baseurl:"
   Planet Renovations inc. Your vision. Our Expertise
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "planetrenovations.ca" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://planetrenovations.ca" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
