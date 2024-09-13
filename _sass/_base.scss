@@ -178,7 +178,7 @@ header {
                 text-transform: uppercase;
                 margin-top: 0;
                 margin-bottom: 0;
-                font-family: 'Young Serif', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+                font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
             }
             hr {
                 margin: 30px auto;
@@ -242,7 +242,7 @@ header {
 
 #portfolio {
  h2 {
-    font-family: 'Young Serif', 'Open Sans', "Helvetica Neue", Arial, sans-serif !important;
+    font-family: 'Montserrat', 'Open Sans', "Helvetica Neue", Arial, sans-serif !important;
     font-weight: 700;
     color: $theme-primary
  }
@@ -261,7 +261,6 @@ header {
         color: white;
         opacity: 1;
         display: block;
-        background: rgba( #00351c, .3 );
         position: absolute;
         bottom: 0;
         text-align: center;
@@ -343,6 +342,15 @@ header {
 .portfolio-image-6 {
     background-image: url("../img/portfolio/6.jpg");
 }
+.customer-kitchen1 {
+    background-image: url("../img/portfolio/customer-kitchen1.jpg");
+}
+.customer-kitchen2 {
+    background-image: url("../img/portfolio/customer-kitchen2.jpg");
+}
+.customer-kitchen3 {
+    background-image: url("../img/portfolio/customer-kitchen3.jpg");
+}
 
 .call-to-action {
     h2 {
@@ -422,7 +430,7 @@ body {
     color: $theme-primary;
 }
 .text-emphasis-font {
-    font-family: 'Young Serif', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     font-weight: 500;
 }
 .logo-png {
@@ -437,6 +445,10 @@ body {
         margin-right: .1rem;
     }
 }
+.flyer-img {
+    width:100%;
+}
+
 
 .large-font-size {
     font-size: large;
@@ -504,7 +516,7 @@ footer {
 
     font-family:'Helvetica Neue', Arial, sans-serif;
     h2 {
-        font-family: 'Young Serif', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+        font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
         color: black;
         font-weight: 800;
     }
@@ -518,7 +530,7 @@ footer {
 
     font-family:'Helvetica Neue', Arial, sans-serif;
     h2 {
-        font-family: 'Young Serif', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+        font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
         color: $theme-primary;
         font-weight: 800;
     }
